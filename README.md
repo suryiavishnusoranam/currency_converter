@@ -4,7 +4,7 @@ I recently developed a currency converter application using JavaScript to deepen
 
 My goal with this project was to enhance my proficiency in JavaScript syntax, particularly focusing on DOM manipulation, asynchronous programming with fetch, error handling, and local storage usage for maintaining conversion history.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bX4EuizryB4)
 
 # Development Environment
 
