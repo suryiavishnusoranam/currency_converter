@@ -7,7 +7,6 @@ body {
     height: 100vh;
     margin: 0;
 }
-
 .converter {
     background: #fff;
     padding: 25px;
@@ -16,11 +15,9 @@ body {
     text-align: center;
     width: 300px;
 }
-
 .input-group {
     margin: 15px 0;
 }
-
 input, select {
     width: 100%;
     padding: 10px;
@@ -28,7 +25,6 @@ input, select {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
-
 button {
     background: #007bff;
     color: #fff;
@@ -38,11 +34,9 @@ button {
     cursor: pointer;
     width: 100%;
 }
-
 button:hover {
     background: #0056b3;
 }
-
 .result {
     margin-top: 20px;
 }
