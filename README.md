@@ -19,5 +19,5 @@ JavaScript served as the core programming language for client-side scripting, le
 
 # Future Work
 
-- Adding support for additional currencies and implementing user preferences for customizing conversion settings.
-- Implementing a feature for historical exchange rate data visualization, allowing users to track currency trends over time.
+- To provide support for additional currencies and implement user preferences for customizing conversion settings.
+- To implement a feature for historical exchange rate data visualization, allowing users to track currency trends over time.
